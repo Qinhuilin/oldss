@@ -8,6 +8,7 @@ theme = 'ananke'
 hasCJKLanguage = true
 summaryLength = 29
 
+canonifyurls = true
 [[menu.main]]
 identifier = "post"
 name = "Posts"
