@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://qinhuilin.github.io/oldss/'
 languageCode = 'en-us'
 publishDir = 'docs'
 title = '老有所养'
