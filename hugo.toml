@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+publishDir = 'docs'
+title = '老有所养'
+theme = 'ananke'
+
+
+hasCJKLanguage = true
+summaryLength = 29
+
+[[menu.main]]
+identifier = "post"
+name = "Posts"
+url = "/posts/"
+weight = 60
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
